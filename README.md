@@ -131,6 +131,11 @@
 <p>Video na prática: Ao acionar o botão, o contato de emergência é notificado via SMS e recebe uma ligação automaticamente. </p> <br>
 
 <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/e244832d435b46adeb17e0fbe0ce43928137b9e6/imagens/Modelagem%20Wokwi/VideoNaPr%C3%A1tica_SMS_Liga%C3%A7%C3%A3o.gif"> <br>
+
+
+<p>Case finalizada:</p>
+<img src="https://github.com/Mayumikkato/IOT_SecureHer/blob/69809ab012271bb86884425dc00481ca465ce16f/imagens/Modelo%203d%20case/case.jpg"> <br>
+
   
 ## 🛠 Estrutura de pastas
 
